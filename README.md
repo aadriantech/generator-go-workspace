@@ -6,6 +6,7 @@ This is a bash script that creates a new Go workspace and a new Go project withi
 
 The script creates the following directory structure under a projects folder:
 
+```
 myapp
 ├── bin
 ├── pkg
@@ -26,6 +27,7 @@ myapp
 │ │ ├── api
 │ │ └── db
 │ └── vendor
+```
 
 
 Here's what each directory is for:
